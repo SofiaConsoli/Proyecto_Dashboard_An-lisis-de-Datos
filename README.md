@@ -1,4 +1,4 @@
-# Proyecto_Dashboard_Análisis-de-Datos
+# Proyecto_Dashboard_Análisis_de_Datos
 Repositorio creado con el fin de realizar la entrega del proyecto de lógica de Katas del módulo de Dashboard &amp; Análisis de Datos del bootcamp de Data And Analytics de la escuela ThePower Education. URL Google Sheet donde se encuentra el trabajo: https://docs.google.com/spreadsheets/d/14IcrGtQiVIWxLqw2jn3YSpS6Ux7fImlUb1DU7fVYtlw/edit?usp=sharing .
 
 1. Introducción							
